@@ -1,0 +1,6 @@
+dependencies: \
+  /Users/mindaugasjacionis/personal/react-native-collapsible-menu/node_modules/react-native/React/Modules/RCTI18nManager.m \
+  /Users/mindaugasjacionis/personal/react-native-collapsible-menu/node_modules/react-native/React/Modules/RCTI18nManager.h \
+  /Users/mindaugasjacionis/personal/react-native-collapsible-menu/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/mindaugasjacionis/personal/react-native-collapsible-menu/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/mindaugasjacionis/personal/react-native-collapsible-menu/node_modules/react-native/React/Modules/RCTI18nUtil.h
